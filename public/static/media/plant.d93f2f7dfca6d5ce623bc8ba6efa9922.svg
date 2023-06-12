@@ -1,0 +1,99 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px"
+	height="100px" viewBox="0 0 32 32" xml:space="preserve" fill="#000000">
+	<g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+	<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+	<g id="SVGRepo_iconCarrier">
+		<style type="text/css">
+			.avocado_een {
+				fill: #4f4a4b;
+			}
+
+			.avocado_negen {
+				fill: #6F9B45;
+			}
+
+			.avocado_tien {
+				fill: #C3CC6A;
+			}
+
+			.avocado_drie {
+				fill: #716558;
+			}
+
+			.avocado_vier {
+				fill: #ccaa66;
+			}
+
+			.st0 {
+				fill: #EAD13F;
+			}
+
+			.st1 {
+				fill: #CC4121;
+			}
+
+			.st2 {
+				fill: #FFFAEE;
+			}
+
+			.st3 {
+				fill: #E0A838;
+			}
+
+			.st4 {
+				fill: #D1712A;
+			}
+
+			.st5 {
+				fill: #A3AEB5;
+			}
+
+			.st6 {
+				fill: #788287;
+			}
+
+			.st7 {
+				fill: #248EBC;
+			}
+
+			.st8 {
+				fill: #8D3E93;
+			}
+
+			.st9 {
+				fill: #3D3935;
+			}
+
+			.st10 {
+				fill: #D36781;
+			}
+
+			.st11 {
+				fill: #E598A3;
+			}
+
+			.st12 {
+				fill: #DBD2C1;
+			}
+
+			.st13 {
+				fill: #4f4a4b;
+			}
+		</style>
+		<g>
+			<path class="avocado_tien"
+				d="M26.241,9.442c-0.061-0.167-0.796-0.56-3.433-0.371l-0.712,0.052l0.195-0.687 c0.887-3.12,0.602-4.102,0.433-4.2c-0.19-0.11-1.291,0.188-3.803,2.874l-0.665,0.711l-0.19-0.954C17.263,2.852,16.311,1.5,16,1.5 s-1.263,1.352-2.066,5.368l-0.19,0.954l-0.665-0.711c-2.517-2.691-3.617-2.982-3.803-2.874c-0.169,0.098-0.454,1.08,0.433,4.2 l0.195,0.687L9.191,9.072C6.557,8.883,5.82,9.275,5.759,9.442c-0.285,0.784,3.815,3.739,6.668,5.058h7.146 C22.426,13.182,26.526,10.226,26.241,9.442z">
+			</path>
+			<path class="avocado_negen"
+				d="M26.241,9.442c-0.016-0.043-0.078-0.1-0.202-0.159C23.495,11.257,19.95,12.5,16,12.5 c-3.95,0-7.495-1.243-10.039-3.217C5.837,9.342,5.775,9.4,5.759,9.442c-0.285,0.784,3.815,3.739,6.668,5.058h7.146 C22.426,13.182,26.526,10.226,26.241,9.442z">
+			</path>
+			<polygon class="avocado_vier"
+				points="23.5,27.5 22.434,27.5 23.559,18.5 24.5,18.5 24.5,14.5 7.5,14.5 7.5,18.5 8.441,18.5 9.566,27.5 8.5,27.5 8.5,30.5 23.5,30.5 ">
+			</polygon>
+			<polygon class="avocado_drie" points="23.396 19.763 8.62 19.763 8.438 18.536 23.708 18.5">
+			</polygon>
+			<polygon class="avocado_drie" points="22.44 27.586 9.585 27.543 9.544 27.319 22.473 27.362"></polygon>
+
+		</g>
+	</g>
+</svg>

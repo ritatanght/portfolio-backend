@@ -1,0 +1,20 @@
+POST http://localhost:3800/api/projects
+Content-Type: application/json
+
+{
+    "name": "Launch Countdown",
+    "description":
+      "A visually appealing and functional countdown timer for tracking the time remaining until a product launch or event.",
+    "repository": "https://github.com/ritatanght/launch-countdown-timer",
+    "liveURL": "https://ritatanght.github.io/launch-countdown-timer/",
+    "image":
+      "https://github.com/ritatanght/launch-countdown-timer/blob/main/images/screenshot-desktop-design.png?raw=true",
+
+    "tools": ["HTML", "Sass", "JavaScript"],
+    "auth":{}
+
+  }
+
+###
+
+GET http://localhost:3800/api/projects
