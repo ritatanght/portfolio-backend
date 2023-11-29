@@ -1,5 +1,4 @@
-require("dotenv").config();
-const express = require("express");
+require("dotenv").config();const express = require("express");
 const mongoose = require("mongoose");
 const app = express();
 const cors = require("cors");
@@ -23,7 +22,7 @@ app.get("/", (_req, res) => {
 
 app.get("/api/projects", async (_req, res) => {
   try {
-    const projects = await Project.find();
+    const projects = await Project.find().sort({ _id: -1 });
     res.json(projects);
   } catch (err) {
     console.log(err);
